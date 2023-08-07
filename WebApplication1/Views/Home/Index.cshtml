@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@{
+    int nombreCarres = ViewBag.NombreCarres;
+    List<string> images = ViewBag.Images;
+    Dictionary<string, double> resultat = ViewBag.Resultat;
+
+    double cote = resultat["cote"];
+    int nombreLignes = (int)resultat["nombreLignes"];
+    int nombreColonnes = (int)resultat["nombreColonnes"];
+}
+
+<table>
+    @for (int i = 0; i < nombreLignes; i++)
+    {
+        <tr>
+            @for (int j = 0; j < nombreColonnes; j++)
+            {
+                <td><img src='@images[i * nombreColonnes + j].Replace("C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\background-wallpaper\\","")' style='width: @string.Concat(cote,"px"); height: @string.Concat(cote,"px");' /></td>
+            }
+        </tr>
+    }
+</table>
+
+
+
+<style>
+    *, td {
+        margin: 0;
+        padding: 0;
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+</style>
+
+<script>
+    console.log(window.innerHeight)
+        console.log(window.innerWidth)
+</script>

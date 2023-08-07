@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\acbetjj_h&f.jpg",
+      "PackagePath": "staticwebassets\\acbetjj_h&f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\bo_cdg.jpg",
+      "PackagePath": "staticwebassets\\bo_cdg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\bo_cdgd.jpg",
+      "PackagePath": "staticwebassets\\bo_cdgd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\bo_cdgo.jpg",
+      "PackagePath": "staticwebassets\\bo_cdgo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\bo_vdr.jpg",
+      "PackagePath": "staticwebassets\\bo_vdr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\bo_vv.jpg",
+      "PackagePath": "staticwebassets\\bo_vv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\cf_ccl.jpg",
+      "PackagePath": "staticwebassets\\cf_ccl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\cf_livetour.jpg",
+      "PackagePath": "staticwebassets\\cf_livetour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\cf_oeg.jpg",
+      "PackagePath": "staticwebassets\\cf_oeg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\columbine_aa.jpg",
+      "PackagePath": "staticwebassets\\columbine_aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\columbine_cc.jpg",
+      "PackagePath": "staticwebassets\\columbine_cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\columbine_ef.jpg",
+      "PackagePath": "staticwebassets\\columbine_ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\columbine_marion.jpg",
+      "PackagePath": "staticwebassets\\columbine_marion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\dinos.jpg",
+      "PackagePath": "staticwebassets\\dinos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\dinos_hap.jpg",
+      "PackagePath": "staticwebassets\\dinos_hap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\dinos_imany.jpg",
+      "PackagePath": "staticwebassets\\dinos_imany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\dinos_inamy2.jpg",
+      "PackagePath": "staticwebassets\\dinos_inamy2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\dinos_stamina.jpg",
+      "PackagePath": "staticwebassets\\dinos_stamina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\dinos_taciturne.jpg",
+      "PackagePath": "staticwebassets\\dinos_taciturne.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\dondadamixtape.jpg",
+      "PackagePath": "staticwebassets\\dondadamixtape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\freeze_bbm.jpg",
+      "PackagePath": "staticwebassets\\freeze_bbm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\freeze_bluebeem.jpg",
+      "PackagePath": "staticwebassets\\freeze_bluebeem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\freeze_colors.jpg",
+      "PackagePath": "staticwebassets\\freeze_colors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\freeze_euro.jpg",
+      "PackagePath": "staticwebassets\\freeze_euro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\freeze_fdt.jpg",
+      "PackagePath": "staticwebassets\\freeze_fdt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\freeze_fdt2.jpg",
+      "PackagePath": "staticwebassets\\freeze_fdt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\freeze_lmf.jpg",
+      "PackagePath": "staticwebassets\\freeze_lmf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\freeze_lmf2.jpg",
+      "PackagePath": "staticwebassets\\freeze_lmf2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\freeze_telephone.jpg",
+      "PackagePath": "staticwebassets\\freeze_telephone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\gringe.jpg",
+      "PackagePath": "staticwebassets\\gringe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\ico_pc.jpg",
+      "PackagePath": "staticwebassets\\ico_pc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\index.php",
+      "PackagePath": "staticwebassets\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\jazzybazz_memoria.jpg",
+      "PackagePath": "staticwebassets\\jazzybazz_memoria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\jw_ctrl.jpg",
+      "PackagePath": "staticwebassets\\jw_ctrl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\laylow.jpg",
+      "PackagePath": "staticwebassets\\laylow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\laylow_ehdma.jpg",
+      "PackagePath": "staticwebassets\\laylow_ehdma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\laylow_matrix.jpg",
+      "PackagePath": "staticwebassets\\laylow_matrix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lomepal_amina.jpg",
+      "PackagePath": "staticwebassets\\lomepal_amina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lomepal_flip.jpg",
+      "PackagePath": "staticwebassets\\lomepal_flip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lomepal_jeanine.jpg",
+      "PackagePath": "staticwebassets\\lomepal_jeanine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lomepal_majeste.jpg",
+      "PackagePath": "staticwebassets\\lomepal_majeste.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lomepal_mauvaisordre.jpg",
+      "PackagePath": "staticwebassets\\lomepal_mauvaisordre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lorenzo_eds.jpg",
+      "PackagePath": "staticwebassets\\lorenzo_eds.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lorenzo_lv.jpg",
+      "PackagePath": "staticwebassets\\lorenzo_lv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lorenzo_rab.jpg",
+      "PackagePath": "staticwebassets\\lorenzo_rab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\lorenzo_sitc.jpg",
+      "PackagePath": "staticwebassets\\lorenzo_sitc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\misterv_doublev.jpg",
+      "PackagePath": "staticwebassets\\misterv_doublev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\misterv_mvp.jpg",
+      "PackagePath": "staticwebassets\\misterv_mvp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\nekfeu_ev.jpg",
+      "PackagePath": "staticwebassets\\nekfeu_ev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\nekfeu_feu.jpg",
+      "PackagePath": "staticwebassets\\nekfeu_feu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\nekfeu_feu2.jpg",
+      "PackagePath": "staticwebassets\\nekfeu_feu2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\nekfeu_humanoide.jpg",
+      "PackagePath": "staticwebassets\\nekfeu_humanoide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\nepal_2018.jpg",
+      "PackagePath": "staticwebassets\\nepal_2018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\nepal_ab.jpg",
+      "PackagePath": "staticwebassets\\nepal_ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\nepal_cheddar.jpg",
+      "PackagePath": "staticwebassets\\nepal_cheddar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\nepal_daruma.jpg",
+      "PackagePath": "staticwebassets\\nepal_daruma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\nepal_reglement.jpg",
+      "PackagePath": "staticwebassets\\nepal_reglement.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\orelsa_perdudavance.jpg",
+      "PackagePath": "staticwebassets\\orelsa_perdudavance.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\orelsan_ballon.jpg",
+      "PackagePath": "staticwebassets\\orelsan_ballon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\orelsan_chantdessirenes.jpg",
+      "PackagePath": "staticwebassets\\orelsan_chantdessirenes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\orelsan_civ2.jpg",
+      "PackagePath": "staticwebassets\\orelsan_civ2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\orelsan_civilisation.jpg",
+      "PackagePath": "staticwebassets\\orelsan_civilisation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\orelsan_jsaisplus.jpg",
+      "PackagePath": "staticwebassets\\orelsan_jsaisplus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\plk_2069.jpg",
+      "PackagePath": "staticwebassets\\plk_2069.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\plk_enna.jpg",
+      "PackagePath": "staticwebassets\\plk_enna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\plk_ennaboost.jpg",
+      "PackagePath": "staticwebassets\\plk_ennaboost.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\plk_mental.jpg",
+      "PackagePath": "staticwebassets\\plk_mental.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\plk_polak.jpg",
+      "PackagePath": "staticwebassets\\plk_polak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\riyad_sadio.jpg",
+      "PackagePath": "staticwebassets\\riyad_sadio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\screw.jpg",
+      "PackagePath": "staticwebassets\\screw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\spiderzed_ab.jpg",
+      "PackagePath": "staticwebassets\\spiderzed_ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\spiderzed_boq.jpg",
+      "PackagePath": "staticwebassets\\spiderzed_boq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\spiderzed_cdc.jpg",
+      "PackagePath": "staticwebassets\\spiderzed_cdc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\spiderzed_ji.jpg",
+      "PackagePath": "staticwebassets\\spiderzed_ji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\spiderzed_mesex.jpg",
+      "PackagePath": "staticwebassets\\spiderzed_mesex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\spiderzed_pss.jpg",
+      "PackagePath": "staticwebassets\\spiderzed_pss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\vald_agarhta.jpg",
+      "PackagePath": "staticwebassets\\vald_agarhta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\vald_cem.jpg",
+      "PackagePath": "staticwebassets\\vald_cem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\vald_envie.jpg",
+      "PackagePath": "staticwebassets\\vald_envie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\vald_nqnt.jpg",
+      "PackagePath": "staticwebassets\\vald_nqnt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\vald_nqnt2.jpg",
+      "PackagePath": "staticwebassets\\vald_nqnt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\vald_v.jpg",
+      "PackagePath": "staticwebassets\\vald_v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\vald_xeu.jpg",
+      "PackagePath": "staticwebassets\\vald_xeu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\valdnqntmqmqmb.jpg",
+      "PackagePath": "staticwebassets\\valdnqntmqmqmb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\wwwroot\\zamdane_cdmp.jpg",
+      "PackagePath": "staticwebassets\\zamdane_cdmp.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
