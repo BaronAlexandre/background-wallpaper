@@ -13,26 +13,51 @@
     int nombreColonnes = (int)resultat["nombreColonnes"];
 }
 
-<table>
-    @for (int i = 0; i < nombreLignes; i++)
-    {
-        <tr>
-            @for (int j = 0; j < nombreColonnes; j++)
+@for (int i = 0; i < nombreLignes; i++)
+{
+    <div class='row' style='height: @string.Concat(cote,"px");'>
+        @if (i % 2 == 0)
+        {
+            for (int j = 0; j < nombreColonnes; j++)
             {
-                <td><img src='@images[i * nombreColonnes + j].Replace("C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\background-wallpaper\\","")' style='width: @string.Concat(cote,"px"); height: @string.Concat(cote,"px");' /></td>
+                <div class='cell' style='width: @string.Concat(cote,"px"); height: @string.Concat(cote,"px");'><img src='@images[i * nombreColonnes + j].Replace(@"C:\Users\abaron\Documents\Perso\dev\background-wallpaper\WebApplication1\wwwroot","")' style='width: @string.Concat(cote,"px"); height: @string.Concat(cote,"px");' /></div>
             }
-        </tr>
-    }
-</table>
+        }
+        else
+        {
+            for (int j = nombreColonnes - 1; j >= 0; j--)
+            {
+                <div class='cell'><img src='@images[i * nombreColonnes + j].Replace(@"C:\Users\abaron\Documents\Perso\dev\background-wallpaper\WebApplication1\wwwroot","")' style='width: @string.Concat(cote,"px"); height: @string.Concat(cote,"px");' /></div>
+            }
+        }
+    </div>
+}
+
 
 
 
 <style>
-    *, td {
+    * {
         margin: 0;
         padding: 0;
         border-collapse: collapse;
         border-spacing: 0;
+        -webkit-border-before : 0;
+    }
+
+    .row {
+        display: flex;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+
+    .cell {
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 </style>
 

@@ -1,26 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Drawing;
-using System.Text;
 using WebApplication1.Models;
-using static System.Net.Mime.MediaTypeNames;
-using System.Drawing;
 
 namespace WebApplication1.Controllers
 {
-	public class HomeController : Controller
-	{
-		private readonly ILogger<HomeController> _logger;
+    public class HomeController : Controller
+    {
+        private readonly ILogger<HomeController> _logger;
 
-		public HomeController(ILogger<HomeController> logger)
-		{
-			_logger = logger;
-		}
+        public HomeController(ILogger<HomeController> logger)
+        {
+            _logger = logger;
+        }
 
-		public IActionResult Index()
-		{
-			string dossierImages = @"C:\Users\Alexandre\Documents\Developpement\Projets\background-wallpaper"; // Remplacez "chemin_vers_votre_dossier" par le chemin du dossier contenant les images
-			List<string> listeNomsImages = SortImagesByColor(dossierImages);
+        public IActionResult Index()
+        {
+            string dossierImages = @"C:\Users\abaron\Documents\Perso\dev\background-wallpaper\WebApplication1\wwwroot"; // Remplacez "chemin_vers_votre_dossier" par le chemin du dossier contenant les images
+            List<string> listeNomsImages = SortImagesByColor(dossierImages);
 
             int nombreCarres = listeNomsImages.Count;
             Dictionary<string, double> resultat = DetermineCarreTailles(nombreCarres);
@@ -34,65 +31,37 @@ namespace WebApplication1.Controllers
             ViewBag.Images = listeNomsImages;
             ViewBag.Resultat = resultat;
 
-			return View();
-		}
+            return View();
+        }
 
-		public IActionResult Privacy()
-		{
-			return View();
-		}
+        public IActionResult Privacy()
+        {
+            return View();
+        }
 
-		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-		public IActionResult Error()
-		{
-			return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-		}
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
 
 
-		public static Dictionary<string, double> DetermineCarreTailles(int nombreCarres, int zoneLargeur = 2200, int zoneHauteur = 1293)
-		{
-			// Calcul de la taille d'un côté des carrés
-			double cote = Math.Sqrt((zoneLargeur * zoneHauteur) / nombreCarres);
+        public static Dictionary<string, double> DetermineCarreTailles(int nombreCarres, int zoneLargeur = 1920, int zoneHauteur = 1080)
+        {
+            // Calcul de la taille d'un côté des carrés
+            double cote = Math.Sqrt((zoneLargeur * zoneHauteur) / nombreCarres);
 
-			// Calcul du nombre de lignes et de colonnes
-			int nombreLignes = (int)(zoneHauteur / cote);
-			int nombreColonnes = (int)Math.Ceiling((double)nombreCarres / nombreLignes);
+            // Calcul du nombre de lignes et de colonnes
+            int nombreLignes = (int)(zoneHauteur / cote);
+            int nombreColonnes = (int)Math.Ceiling((double)nombreCarres / nombreLignes);
 
-			return new Dictionary<string, double>
-		{
-			{ "cote", cote },
-			{ "nombreLignes", nombreLignes },
-			{ "nombreColonnes", nombreColonnes }
-		};
-		}
-
-		public static List<string> GetListeNomsImages(string dossier)
-		{
-			// Vérifier si le dossier existe
-			if (!System.IO.Directory.Exists(dossier))
-			{
-				return new List<string>(); // Retourne une liste vide si le dossier n'existe pas
-			}
-
-			List<string> nomsImages = new List<string>(); // Liste pour stocker les noms d'images
-
-			// Obtenir la liste des fichiers dans le dossier
-			string[] fichiers = System.IO.Directory.GetFiles(dossier);
-
-			foreach (string fichier in fichiers)
-			{
-				// Vérifier si le fichier est une image (vous pouvez ajouter d'autres extensions d'image si nécessaire)
-				string extension = System.IO.Path.GetExtension(fichier).ToLower();
-				string[] extensionsValides = { ".jpg", ".jpeg", ".png", ".gif" };
-
-				if (Array.Exists(extensionsValides, ext => ext == extension))
-				{
-					nomsImages.Add(fichier);
-				}
-			}
-
-			return nomsImages;
-		}
+            return new Dictionary<string, double>
+            {
+                { "cote", cote },
+                { "nombreLignes", nombreLignes },
+                { "nombreColonnes", nombreColonnes }
+            };
+        }
 
         static List<string> SortImagesByColor(string folderPath)
         {
@@ -111,7 +80,7 @@ namespace WebApplication1.Controllers
         static int ColorToInt(Color color)
         {
             return color.ToArgb();
-        }	
+        }
         static Color GetAverageColor(string imagePath)
         {
             using (Bitmap bmp = new Bitmap(imagePath))

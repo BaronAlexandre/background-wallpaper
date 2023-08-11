@@ -127,19 +127,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alexandre\\.nuget\\packages\\": {}
+    "C:\\Users\\abaron\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\abaron\\Documents\\Perso\\dev\\background-wallpaper\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\Alexandre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexandre\\Documents\\Developpement\\Projets\\WallPaper\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\abaron\\Documents\\Perso\\dev\\background-wallpaper\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\abaron\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abaron\\Documents\\Perso\\dev\\background-wallpaper\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -147,7 +147,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nexus.hellowork.com:8443/repository/nuget-hosted/": {}
       },
       "frameworks": {
         "net6.0": {
@@ -189,7 +191,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
